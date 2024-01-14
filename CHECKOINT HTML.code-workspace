@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../work.html"
+		},
+		{
+			"path": "../resume.html"
+		},
+		{
+			"path": "../home.html"
+		},
+		{
+			"path": "../contact.html"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "index.html"
+	}
+}
